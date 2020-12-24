@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Code Scanner Demo</string>
+    <string name="scan_barcode">scan_barcode</string>
+    <string name="send_email">send_email</string>
+</resources>
